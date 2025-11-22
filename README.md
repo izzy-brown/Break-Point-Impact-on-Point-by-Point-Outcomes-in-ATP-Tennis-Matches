@@ -11,4 +11,4 @@ This project strengthened my skills in R, data cleaning, statistical modelling a
 
 'Dissertation Script.R' is my completed R script.
 
-'pbp_matches_atp_main_current.csv' is the initial dataset I used
+'pbp_matches_atp_main_current.csv' is the initial dataset I used.
